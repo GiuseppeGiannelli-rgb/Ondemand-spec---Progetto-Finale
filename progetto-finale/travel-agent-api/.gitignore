@@ -1,0 +1,13 @@
+# Variabili d'ambiente (contengono le chiavi API)
+.env
+
+# Ambiente virtuale e cache Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

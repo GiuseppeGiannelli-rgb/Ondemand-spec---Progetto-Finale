@@ -1,0 +1,19 @@
+.vscode
+.claude/
+
+# Materiale del corso (guide PDF e archivi originali)
+progetto-finale/guide/
+*.zip
+BRIEF_*.md
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Variabili d'ambiente (chiavi API)
+.env
+
+# Sistema operativo
+.DS_Store
